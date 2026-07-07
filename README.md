@@ -1,4 +1,3 @@
-<img width="1307" height="730" alt="Credit Portfolio Quality" src="https://github.com/user-attachments/assets/5bb9119c-0060-443e-b0ed-a52493999141" />
 # Fintech Credit Risk & Portfolio Analytics
 
 Fintech Credit Risk & Portfolio Analytics is an end-to-end data analytics project that analyzes loan portfolio performance, evaluates borrower credit risk, estimates Expected Loss (EL), and visualizes portfolio health using SQL Server, Python, and Power BI. The project demonstrates a complete analytics workflow—from data preparation and business analysis to financial risk modeling and executive dashboard reporting—using a synthetic fintech loan portfolio dataset.
