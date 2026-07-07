@@ -136,25 +136,15 @@ Analyzes financial exposure and borrower risk using credit risk metrics and port
 
 ---
 
-## Power BI Dashboard
+## 📊 Power BI Dashboard
 
-### Dashboard 1 – Credit Portfolio Quality
+### Dashboard 1: Credit Portfolio Quality
 
-This dashboard provides an overview of the loan portfolio, including portfolio value, outstanding balance, loan status distribution, monthly portfolio trends, risk bucket segmentation, employment analysis, and the highest-risk loans.
+![Credit Portfolio Quality](powerbi_dashboard/Credit Portfolio Quality.png)
 
-<p align="center">
-  <img src="images/Credit Portfolio Quality.png" alt="Credit Portfolio Quality Dashboard" width="900">
-</p>
+### Dashboard 2: Risk-Adjusted Portfolio Analysis
 
----
-
-### Dashboard 2 – Risk-Adjusted Portfolio Analysis
-
-This dashboard focuses on credit risk metrics such as Expected Loss, NPL Ratio, portfolio summary, expected loss by loan status and risk bucket, and the relationship between interest rates and expected losses.
-
-<p align="center">
-  <img src="images/Risk Adjusted Portfolio Analysis.png" alt="Risk Adjusted Portfolio Analysis Dashboard" width="900">
-</p>
+![Risk Adjusted Portfolio Analysis](powerbi_dashboard/Risk Adjusted Portfolio Analysis.png)
 
 ---
 
