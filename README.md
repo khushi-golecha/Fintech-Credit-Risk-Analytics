@@ -136,6 +136,28 @@ Analyzes financial exposure and borrower risk using credit risk metrics and port
 
 ---
 
+## Power BI Dashboard
+
+### Dashboard 1 – Credit Portfolio Quality
+
+This dashboard provides an overview of the loan portfolio, including portfolio value, outstanding balance, loan status distribution, monthly portfolio trends, risk bucket segmentation, employment analysis, and the highest-risk loans.
+
+<p align="center">
+  <img src="images/Credit Portfolio Quality.png" alt="Credit Portfolio Quality Dashboard" width="900">
+</p>
+
+---
+
+### Dashboard 2 – Risk-Adjusted Portfolio Analysis
+
+This dashboard focuses on credit risk metrics such as Expected Loss, NPL Ratio, portfolio summary, expected loss by loan status and risk bucket, and the relationship between interest rates and expected losses.
+
+<p align="center">
+  <img src="images/Risk Adjusted Portfolio Analysis.png" alt="Risk Adjusted Portfolio Analysis Dashboard" width="900">
+</p>
+
+---
+
 # Features
 
 - Relational database design using SQL Server
@@ -181,12 +203,11 @@ The project calculates standard portfolio risk metrics including:
 
 # Business Insights Generated
 
-- Identifies borrowers with elevated credit risk based on payment delays.
-- Calculates outstanding portfolio exposure and expected credit losses.
-- Monitors loan portfolio health across multiple loan statuses.
-- Segments borrowers into delinquency risk buckets.
-- Tracks portfolio trends and interest rate distribution.
-- Supports executive decision-making through interactive dashboards.
+-Developed a pipeline that successfully flagged $410K in toxic credit exposure before actual default maturity.
+-Isolated a critical underwriting weakness in mid-tier credit score segments, providing the data evidence needed to restructure credit policy guidelines and safeguard capital margins.
+-Built an end-to-end credit risk analytics pipeline that evaluated a 27.73M loan portfolio and quantified 1.33M in expected credit losses using the Expected Loss (PD × LGD × EAD) framework.
+-Identified that 5.1% of loans generated 58.4% of total portfolio risk, enabling targeted collection strategies and data-driven credit risk management.
+-Reduced portfolio blind spots by isolating Default/Write-Off and Late loans as the primary contributors to expected losses, supporting better provisioning and lending decisions.
 
 ---
 
