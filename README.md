@@ -193,11 +193,11 @@ The project calculates standard portfolio risk metrics including:
 
 # Business Insights Generated
 
--Developed a pipeline that successfully flagged $410K in toxic credit exposure before actual default maturity.
--Isolated a critical underwriting weakness in mid-tier credit score segments, providing the data evidence needed to restructure credit policy guidelines and safeguard capital margins.
--Built an end-to-end credit risk analytics pipeline that evaluated a 27.73M loan portfolio and quantified 1.33M in expected credit losses using the Expected Loss (PD × LGD × EAD) framework.
--Identified that 5.1% of loans generated 58.4% of total portfolio risk, enabling targeted collection strategies and data-driven credit risk management.
--Reduced portfolio blind spots by isolating Default/Write-Off and Late loans as the primary contributors to expected losses, supporting better provisioning and lending decisions.
+- Developed a pipeline that successfully flagged $410K in toxic credit exposure before actual default maturity.
+- Isolated a critical underwriting weakness in mid-tier credit score segments, providing the data evidence needed to restructure credit policy guidelines and safeguard capital margins.
+- Built an end-to-end credit risk analytics pipeline that evaluated a 27.73M loan portfolio and quantified 1.33M in expected credit losses using the Expected Loss (PD × LGD × EAD) framework.
+- Identified that 5.1% of loans generated 58.4% of total portfolio risk, enabling targeted collection strategies and data-driven credit risk management.
+- Reduced portfolio blind spots by isolating Default/Write-Off and Late loans as the primary contributors to expected losses, supporting better provisioning and lending decisions.
 
 ---
 
